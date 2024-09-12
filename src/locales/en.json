@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "giveConsent": "Give consent",
+    "collectedConsents": "Collected consents"
+  },
+  "consentForm": {
+    "title": "Give Consent Form",
+    "name": "Name",
+    "email": "Email address",
+    "agreeLabel": "I agree to:",
+    "newsletter": "Receive newsletter",
+    "targetedAds": "Be shown targeted ads",
+    "statistics": "Contribute to anonymous visit statistics",
+    "submit": "Give consent"
+  },
+  "consentManagement": {
+    "title": "Collected Consents",
+    "tableHeaders": {
+      "name": "Name",
+      "email": "Email",
+      "consents": "Consent given for"
+    }
+  },
+  "pagination": {
+    "previous": "Previous page",
+    "next": "Next page",
+    "page": "Page {{page}}"
+  },
+  "errors": {
+    "required": "{{field}} is required",
+    "invalidEmail": "Invalid email address",
+    "atLeastOneConsent": "At least one consent option must be selected"
+  }
+}

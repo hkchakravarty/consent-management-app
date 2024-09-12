@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "giveConsent": "Dar consentimiento",
+    "collectedConsents": "Consentimientos recopilados"
+  },
+  "consentForm": {
+    "title": "Formulario de consentimiento",
+    "name": "Nombre",
+    "email": "Dirección de correo electrónico",
+    "agreeLabel": "Estoy de acuerdo con:",
+    "newsletter": "Recibir boletín informativo",
+    "targetedAds": "Ver anuncios dirigidos",
+    "statistics": "Contribuir a estadísticas anónimas de visitas",
+    "submit": "Dar consentimiento"
+  },
+  "consentManagement": {
+    "title": "Consentimientos recopilados",
+    "tableHeaders": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "consents": "Consentimiento dado para"
+    }
+  },
+  "pagination": {
+    "previous": "Página anterior",
+    "next": "Página siguiente",
+    "page": "Página {{page}}"
+  },
+  "errors": {
+    "required": "{{field}} es obligatorio",
+    "invalidEmail": "Dirección de correo electrónico inválida",
+    "atLeastOneConsent": "Debe seleccionar al menos una opción de consentimiento"
+  }
+}
